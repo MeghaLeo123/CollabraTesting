@@ -1,0 +1,6 @@
+Sample document
+{
+Calculator{
+a,b,c;
+}
+}
